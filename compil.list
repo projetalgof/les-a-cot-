@@ -1,0 +1,16 @@
+miniville/ihm/Controleur.java
+miniville/ihm/IHM.java
+miniville/ihm/StringUtils.java
+
+miniville/metier/Banque.java
+miniville/metier/Carte.java
+miniville/metier/CarteBleu.java
+miniville/metier/CarteVerte.java
+miniville/metier/CarteViolet.java
+miniville/metier/CarteRouge.java
+miniville/metier/EnumCarte.java
+miniville/metier/Joueur.java
+miniville/metier/Metier.java
+miniville/metier/Monument.java
+miniville/metier/Regle.java
+
